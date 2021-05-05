@@ -1,5 +1,5 @@
-#include "WB-PWMX.h"
-#include "WB-PWMX_private.h"
+#include "PWMX.h"
+#include "PWMX_private.h"
 #include <stdarg.h>
 #include <stdbool.h>
 
