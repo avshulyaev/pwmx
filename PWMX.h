@@ -2,8 +2,8 @@
 Dev: Anton Shulyaev 08.03.21
 */
 
-#ifndef WB_PWMX_H
-#define WB_PWMX_H
+#ifndef PWMX_H
+#define PWMX_H
 
 #include <stdint.h>
 #include "stm32f4xx_hal.h"
