@@ -2,8 +2,8 @@
 Dev: Anton Shulyaev 09.03.21
 */
 
-#ifndef WB_PWMX_PRIVATE_H
-#define WB_PWMX_PRIVATE_H
+#ifndef PWMX_PRIVATE_H
+#define PWMX_PRIVATE_H
 
 #include <stdint.h>
 #include "stm32f4xx_hal.h"
